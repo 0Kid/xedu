@@ -1,0 +1,10 @@
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (1, '고든 세터', '2022-10-24 11:03:46.719+00', '2022-10-24 11:03:46.719+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (2, '꼬똥 드 툴레아', '2022-10-24 11:03:56.045+00', '2022-10-24 11:03:56.045+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (3, '골든두들', '2022-10-24 11:04:03.565+00', '2022-10-24 11:04:03.565+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (4, '골든 리트리버', '2022-10-24 11:04:09.971+00', '2022-10-24 11:04:09.971+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (5, '그레이트 데인', '2022-10-24 11:04:17.574+00', '2022-10-24 11:04:17.574+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (6, '그레이트 스위스 마운틴 도그', '2022-10-24 11:04:24.227+00', '2022-10-24 11:04:24.227+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (7, '그레이트 피레니즈', '2022-10-24 11:04:31.596+00', '2022-10-24 11:04:31.596+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (8, '그레이하운드', '2022-10-24 11:04:39.52+00', '2022-10-24 11:04:39.52+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (9, '글렌 오브 이말 테리어', '2022-10-24 11:04:49.243+00', '2022-10-24 11:04:49.243+00');
+INSERT INTO "breeds" ("id", "title", "createdAt", "updatedAt") VALUES (10, '기슈견', '2022-10-24 11:04:59.05+00', '2022-10-24 11:04:59.05+00');

@@ -1,0 +1,13 @@
+INSERT INTO "migrations" ("name") VALUES ('20220713145756-create-auth.js');
+INSERT INTO "migrations" ("name") VALUES ('20221005024730-create-token.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091522-create-therm.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091546-create-breed.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091602-create-feed.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091619-create-profile.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091645-create-feeduser.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091712-create-sickness.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091730-create-sickuser.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091750-create-infomation.js');
+INSERT INTO "migrations" ("name") VALUES ('20221012091827-create-informationuser.js');
+INSERT INTO "migrations" ("name") VALUES ('20221021083201-create-product.js');
+INSERT INTO "migrations" ("name") VALUES ('20221021105445-create-receipt.js');

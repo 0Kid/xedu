@@ -1,0 +1,10 @@
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (5, '관절', '2022-10-24 08:39:11.154+00', '2022-10-24 08:39:11.154+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (6, '비만', '2022-10-24 08:39:20.637+00', '2022-10-24 08:39:20.637+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (7, '피부', '2022-10-24 08:39:30.051+00', '2022-10-24 08:39:30.051+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (8, '눈', '2022-10-24 08:39:41.13+00', '2022-10-24 08:39:41.13+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (9, '구강', '2022-10-24 08:39:49.233+00', '2022-10-24 08:39:49.233+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (10, '면역', '2022-10-24 08:39:57.202+00', '2022-10-24 08:39:57.202+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (11, '노화', '2022-10-24 08:40:04.303+00', '2022-10-24 08:40:04.303+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (12, '소화', '2022-10-24 08:40:12.348+00', '2022-10-24 08:40:12.348+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (13, '호흡', '2022-10-24 08:40:18.651+00', '2022-10-24 08:40:18.651+00');
+INSERT INTO "sicknesses" ("id", "title", "createdAt", "updatedAt") VALUES (14, '원기회복', '2022-10-24 08:40:29.422+00', '2022-10-24 08:40:29.422+00');
